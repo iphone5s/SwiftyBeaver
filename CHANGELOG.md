@@ -6,6 +6,51 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ----
 <br/>
 
+## 1.8.3 (2019-10-23)
+
+##### Added
+- Support for older OS versions via SPM by [@OlexandrStepanov](https://github.com/OlexandrStepanov)
+
+##### Fixed
+- Support for latest server-side Swift by [@JRHeaton](https://github.com/JRHeaton)
+
+<br/>
+
+## 1.8.2 (2019-10-02)
+
+##### Fixed
+- Key value in `info.plist` by [@Sidetalker](https://github.com/Sidetalker)
+
+<br/>
+
+## 1.8.1 (2019-09-30)
+
+##### Fixed
+- Added missing key to `info.plist` by [@lgaches](https://github.com/lgaches)
+
+<br/>
+
+## 1.8.0 (2019-09-27)
+
+##### Added
+- Support for Xcode 11 and iOS 13 by [@lgaches](https://github.com/lgaches)
+
+<br/>
+
+## 1.7.1 (2019-08-22)
+
+##### Added
+- Improved file destination by [@CognitiveDisson](https://github.com/CognitiveDisson)
+- Improved README by [@skreutzberger](https://github.com/skreutzberger)
+- All build targets can use Swift 5 by [@DivineDominion](https://github.com/DivineDominion)
+
+
+##### Fixed
+- Issue in BaseDestination with non-required filters by [@FelixII ](https://github.com/FelixII)
+
+
+<br/>
+
 ## 1.7.0 (2019-03-26)
 
 ##### Added
